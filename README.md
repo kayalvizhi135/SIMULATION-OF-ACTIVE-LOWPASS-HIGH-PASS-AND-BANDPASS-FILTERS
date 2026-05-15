@@ -18,7 +18,17 @@ LT-Spice
 
 
 ## SIMULATION OUTPUT:
+<img width="532" height="298" alt="image" src="https://github.com/user-attachments/assets/cf6b3059-19ac-45ee-af52-3c946375895b" />
 
+<img width="525" height="287" alt="image" src="https://github.com/user-attachments/assets/343be2b2-69fc-4a7d-ac01-5f52018142ec" />
+
+<img width="533" height="286" alt="image" src="https://github.com/user-attachments/assets/8daaef70-ad66-48d5-a10a-9559dbe32f87" />
+
+<img width="530" height="287" alt="image" src="https://github.com/user-attachments/assets/0c2449ee-e00c-446f-9ea5-0650c6318276" />
+
+<img width="529" height="286" alt="image" src="https://github.com/user-attachments/assets/c4198a45-7e59-4935-9d47-c9e700b5428c" />
+
+<img width="530" height="287" alt="image" src="https://github.com/user-attachments/assets/1df2b75f-15a7-407b-b9d1-ec3ca78f0d61" />
 
 ## RESULT :
 
